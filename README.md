@@ -1,5 +1,5 @@
 # Miside-v0.921
-Miside 9.0 rar and so on for him
+Miside-v0.921 rar and so on for him
 1.Download winrar and the rest of the files
 2.Open the winrar file and configure it
 3.Open the MiSide v0.921 file using winrar
